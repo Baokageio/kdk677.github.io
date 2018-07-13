@@ -48,7 +48,7 @@ Name: LocationFaker(8,9)
 Author: Cunstuck <mena@geekforex.com>
 
 Package: com.yourepo.1234567899.xcon_42~beta4
-Version: 4.2.1
+Version: 4.2
 Section: Tweaks
 Maintainer: KieuTao
 Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk677.xcon, jetslammed, socat, com.kdk677.hookkeyboard, com.kdk677.icontool, com.cydiageek.coysim, com.kdk677.locationfaker89
